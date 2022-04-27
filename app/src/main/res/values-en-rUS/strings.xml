@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geometry</string>
+    <string name="valor_requerido">A value is required</string>
+    <string name="valor_no_puede_ser_cero">Value cannot be zero</string>
+    <string name="No_selecciono_ninguna_formula">You did not select any formula</string>
+    <string name="Mas_de_un_campo_esta_vacio">Two fields are empty</string>
+    <string name="Todos_campos_vacios">All fields are empty</string>
+    <string name="Altura_y_largo_no_cero">Height and large cannot be zero</string>
+
+    <string name="Area_de_un_triangulo">Area of a triangle</string>
+    <string name="Altura_de_un_cilindro">Height of a cilinder</string>
+    <string name="volumen_de_una_piramide">Volume of a pyramid</string>
+
+    <string name="Calcular">Calculate</string>
+
+    <string name="hint_base_en_m">Breadth in meters</string>
+    <string name="hint_altura_en_m">Height in meters</string>
+    <string name="volumen_en_m">Volume in meters</string>
+    <string name="radio_en_m">Radius en meters</string>
+    <string name="area_base_en_m">Area in meters</string>
+
+    <string name="ambos_campos_se_encuentran_vacios">Both fields are empty</string>
+
+    <string name="el_area_del_triangulo_es">The area of the triangle is</string>
+    <string name="la_altura_del_cilindro_es">The height of the cilinder is</string>
+    <string name="El_volumen_de_piramide_es">The value of the volume is</string>
+
+    <string name="metros_cuadrados">m²</string>
+    <string name="metros_cubicos">m³</string>
+    <string name="metros">m</string>
+
+    <string name="seleccione_una_formula">Select a formula</string>
+
+    <string-array name="formulas">
+        <item>Select a formula:</item>
+        <item>  1.- Area of a triangle</item>
+        <item>  2.- Height of a cilinder</item>
+        <item>  3.- Volume of a pyramid</item>
+
+    </string-array>
+</resources>

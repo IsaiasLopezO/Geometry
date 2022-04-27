@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Geometry</string>
+
+    <string name="Area_de_un_triangulo">Área de un triángulo</string>
+    <string name="Altura_de_un_cilindro">Altura de un cilindro</string>
+    <string name="volumen_de_una_piramide">Volumen de una pirámide</string>
+
+    <string name="Calcular">Calcular</string>
+    <string name="valor_requerido">Se requiere un valor</string>
+    <string name="valor_no_puede_ser_cero">Valor no puede ser cero</string>
+    <string name="No_selecciono_ninguna_formula">No seleccionó ninguna formula</string>
+    <string name="Mas_de_un_campo_esta_vacio">Dos campos están vacíos</string>
+    <string name="Todos_campos_vacios">Todos los campos se encuentran vacíos</string>
+    <string name="Altura_y_largo_no_cero">Altura y largo no pueden ser cero</string>
+
+    <string name="hint_base_en_m">Base en metros</string>
+    <string name="hint_altura_en_m">Altura en metros</string>
+    <string name="volumen_en_m">Volumen en metros</string>
+    <string name="radio_en_m">Radio en metros</string>
+    <string name="area_base_en_m">Área en metros</string>
+
+    <string name="ambos_campos_se_encuentran_vacios">Ambos campos se encuentran vacíos</string>
+    <string name="el_area_del_triangulo_es">El área del triángulo es</string>
+    <string name="la_altura_del_cilindro_es">La altura del cilindro es</string>
+    <string name="El_volumen_de_piramide_es">El valor del volumen es</string>
+
+    <string name="metros_cuadrados">m²</string>
+    <string name="metros_cubicos">m³</string>
+    <string name="metros">m</string>
+
+    <string name="seleccione_una_formula">Seleccione una fórmula</string>
+
+    <string-array name="formulas">
+        <item>Seleccione una fórmula:</item>
+        <item>  1.- Área de un triángulo</item>
+        <item>  2.- Altura de un cilindro</item>
+        <item>  3.- Volumen de una pirámide</item>
+
+    </string-array>
+</resources>
