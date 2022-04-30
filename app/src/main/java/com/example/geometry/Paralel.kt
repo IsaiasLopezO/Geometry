@@ -41,6 +41,7 @@ class Paralel : AppCompatActivity() {
                 } else if(lista[p2] == lista[3]) {
                     val intentAncho = Intent(this@Paralel,Paralel::class.java)
                     startActivity(intentAncho)
+                    finish()
                 }
             }
 

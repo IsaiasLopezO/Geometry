@@ -43,6 +43,7 @@ class Cilindro : AppCompatActivity() {
                 } else if(lista[p2] == lista[3]) {
                     val intentAncho = Intent(this@Cilindro,Paralel::class.java)
                     startActivity(intentAncho)
+                    finish()
                 }
             }
 
